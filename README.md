@@ -1,31 +1,25 @@
 # ML-DataScience-Training
 
-A structured repository containing course materials, practical notebooks, presentations, datasets, and mini-projects used for **AI, Machine Learning, and Data Science training**.
+A structured repository containing course materials, practical notebooks, presentations, datasets, and mini-projects for **AI, Machine Learning, and Data Science training**.
 
-## 📚 Repository Contents
+## 📚 Repository Structure
 
-The repository is organized module-wise for easy access:
+The repository is organized **module-wise** to keep all training resources easy to access and maintain.
 
-| Module | Focus |
-|--------|-------|
-| 📘 Module 1 | Python, Pandas, EDA & Data Science Fundamentals |
-| 📊 Module 2 Statistics | Statistics for Data Science & Machine Learning |
-| 🤖 Module 3 | Machine Learning & Mini Projects |
-
-## 📂 What's Inside?
-
-Each module contains relevant learning resources such as:
+Each module may contain:
 
 - 📓 Practical Jupyter / Google Colab Notebooks
 - 📊 Datasets
-- 📑 Presentation Slides (PPTs)
-- 🖼️ Supporting Images & Cheat Sheets
+- 📑 Presentation Slides
+- 📝 Notes & Cheat Sheets
+- 🖼️ Supporting Resources
 - 🚀 Mini Projects
-- 📝 Notes & Reference Material
 
 ## 🎯 Purpose
 
-This repository is designed to provide a **single place for students to access class materials, practice notebooks, datasets, and projects** throughout the training.
+This repository serves as a **central learning hub** for students to access class materials, practical exercises, datasets, and projects throughout the training.
+
+New modules and learning resources will be added as the training progresses.
 
 ## 👨‍🏫 Trainer
 
@@ -38,4 +32,4 @@ AI & Machine Learning Trainer | Data Science Trainer
 
 ---
 
-⭐ Use the module folders above to explore the learning materials and practical projects.
+⭐ Explore the module folders above to access the relevant learning materials and projects.
