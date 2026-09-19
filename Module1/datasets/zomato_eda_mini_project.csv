@@ -1,0 +1,104 @@
+Restaurant Name,City,Cuisines,Average Cost for two,Price range,Aggregate rating,Votes
+Ocean Pearl,Mumbai,"Seafood, Continental",1450.0,3,3.7,827.0
+Pizza Central,Pune,"Pizza, Italian",300.0,1,3.8,415.0
+Cafe Aroma,Pune,"Cafe, Desserts",250.0,1,2.7,112.0
+Cafe Aroma,Pune,"Cafe, Desserts",1850.0,4,4.4,741.0
+Bengal Kitchen,Kolkata,,150.0,1,3.8,635.0
+Chaat Junction,Mumbai,"Street Food, North Indian",600.0,2,3.5,396.0
+Royal Dine,Mumbai,"Mughlai, North Indian",550.0,2,3.3,602.0
+Ocean Pearl,Mumbai,"Seafood, Continental",350.0,1,3.4,324.0
+Green Leaf,Bangalore,"South Indian, Healthy Food",1000.0,3,4.1,666.0
+Bengal Bites,Kolkata,"Bengali, Chinese",250.0,1,3.2,345.0
+The Food Factory,Delhi,"Fast Food, Chinese",900.0,3,4.0,110.0
+Pizza Central,,"Pizza, Italian",350.0,1,2.9,228.0
+Punjabi Rasoi,Delhi,"North Indian, Punjabi",500.0,2,3.1,395.0
+Royal Dine,Mumbai,"Mughlai, North Indian",700.0,2,3.9,753.0
+Masala Magic,Kolkata,"North Indian, Chinese",600.0,2,3.8,479.0
+Punjabi Rasoi,Delhi,"North Indian, Punjabi",1200.0,3,3.5,443.0
+Coastal Kitchen,Chennai,"South Indian, Seafood",,2,3.2,768.0
+Chaat Junction,Mumbai,"Street Food, North Indian",500.0,2,3.1,550.0
+Bengal Bites,Kolkata,"Bengali, Chinese",250.0,1,3.1,287.0
+Bengal Bites,Kolkata,"Bengali, Chinese",650.0,2,4.1,737.0
+Bengal Bites,Kolkata,"Bengali, Chinese",250.0,1,3.1,287.0
+Chaat Junction,Mumbai,"Street Food, North Indian",650.0,2,2.6,376.0
+Royal Andhra,Hyderabad,"Andhra, Biryani",2100.0,4,3.6,1024.0
+Kolkata Kathi,Kolkata,"Street Food, Fast Food",2300.0,4,,541.0
+Bombay Bistro,Mumbai,"Continental, Cafe",350.0,1,4.0,299.0
+Dosa Corner,Chennai,South Indian,2600.0,4,3.5,699.0
+Hyderabadi House,Hyderabad,"Biryani, North Indian",200.0,1,3.8,790.0
+Green Leaf,Bangalore,"South Indian, Healthy Food",200.0,1,3.6,177.0
+Bean Theory,Pune,"Cafe, Bakery",700.0,2,2.9,523.0
+Chaat Junction,Mumbai,"Street Food, North Indian",300.0,1,3.5,366.0
+Coastal Kitchen,Chennai,"South Indian, Seafood",1100.0,3,4.1,412.0
+Bean Theory,Pune,"Cafe, Bakery",250.0,1,3.4,793.0
+Spice Route,Bangalore,"North Indian, Chinese",250.0,1,3.3,163.0
+Street Eats,Delhi,"Street Food, Fast Food",350.0,1,3.6,194.0
+Spice Route,Bangalore,"North Indian, Chinese",150.0,1,4.5,336.0
+The Food Factory,Delhi,"Fast Food, Chinese",250.0,1,3.8,409.0
+Masala Magic,Kolkata,"North Indian, Chinese",2300.0,4,3.7,833.0
+Spice Route,Bangalore,"North Indian, Chinese",300.0,1,3.5,448.0
+Street Eats,Delhi,"Street Food, Fast Food",600.0,2,3.6,463.0
+Spice Route,Bangalore,"North Indian, Chinese",250.0,1,3.3,163.0
+Kolkata Kathi,Kolkata,"Street Food, Fast Food",1250.0,3,4.3,836.0
+Chaat Junction,Mumbai,"Street Food, North Indian",200.0,1,3.6,163.0
+Coastal Kitchen,Chennai,"South Indian, Seafood",300.0,1,3.6,5.0
+Coastal Kitchen,Chennai,,2300.0,4,3.4,942.0
+Royal Andhra,Hyderabad,"Andhra, Biryani",700.0,2,5.0,711.0
+Chennai Meals,Chennai,South Indian,2250.0,4,3.4,577.0
+South Spice,Chennai,"South Indian, Chinese",850.0,2,4.0,450.0
+Cafe Mocha,Pune,"Cafe, Italian",950.0,2,3.8,486.0
+Chaat Junction,Mumbai,"Street Food, North Indian",2300.0,4,3.4,523.0
+Idli Express,Bangalore,South Indian,1100.0,3,4.0,465.0
+Idli Express,Bangalore,South Indian,500.0,2,4.2,417.0
+Urban Tadka,Delhi,North Indian,1300.0,3,4.3,702.0
+The Food Factory,Delhi,"Fast Food, Chinese",2600.0,4,3.5,533.0
+Street Eats,Delhi,"Street Food, Fast Food",250.0,1,2.8,646.0
+Cafe Aroma,Pune,"Cafe, Desserts",550.0,2,3.8,738.0
+Cafe Mocha,Pune,"Cafe, Italian",200.0,1,3.6,562.0
+Ocean Pearl,Mumbai,"Seafood, Continental",200.0,1,3.6,547.0
+Bombay Bistro,Mumbai,"Continental, Cafe",700.0,2,3.4,479.0
+Bengal Kitchen,Kolkata,"Bengali, North Indian",500.0,2,3.6,300.0
+Coastal Kitchen,Chennai,"South Indian, Seafood",550.0,2,3.9,684.0
+The Curry House,Mumbai,"North Indian, Mughlai",2100.0,4,3.6,955.0
+Kolkata Kathi,Kolkata,"Street Food, Fast Food",250.0,1,4.0,234.0
+Kolkata Kathi,Kolkata,"Street Food, Fast Food",2600.0,4,3.8,428.0
+Street Eats,Delhi,"Street Food, Fast Food",600.0,2,3.6,
+Coastal Kitchen,Chennai,"South Indian, Seafood",800.0,3,3.9,989.0
+Masala Magic,Kolkata,"North Indian, Chinese",600.0,2,4.0,665.0
+Idli Express,Bangalore,South Indian,1100.0,3,3.7,170.0
+Chaat Junction,Mumbai,"Street Food, North Indian",350.0,1,3.7,5.0
+Hyderabadi House,Hyderabad,"Biryani, North Indian",200.0,1,4.2,319.0
+Bengal Kitchen,Kolkata,"Bengali, North Indian",2150.0,4,2.8,760.0
+Chennai Meals,Chennai,South Indian,850.0,2,3.6,746.0
+Bombay Bistro,Mumbai,"Continental, Cafe",900.0,3,3.5,643.0
+Cafe Aroma,Pune,"Cafe, Desserts",600.0,2,2.8,400.0
+Coastal Kitchen,Chennai,"South Indian, Seafood",200.0,1,3.7,503.0
+Bean Theory,Pune,"Cafe, Bakery",200.0,1,3.8,75.0
+Cafe Aroma,Pune,"Cafe, Desserts",650.0,2,3.9,784.0
+Andhra Spice,Hyderabad,,500.0,2,3.8,506.0
+Cafe Mocha,Pune,"Cafe, Italian",2050.0,4,4.5,442.0
+Bombay Bistro,Mumbai,"Continental, Cafe",1100.0,3,3.8,647.0
+Masala Magic,Kolkata,"North Indian, Chinese",2200.0,4,3.2,698.0
+Cafe Aroma,Pune,"Cafe, Desserts",700.0,2,3.8,590.0
+Punjabi Rasoi,Delhi,"North Indian, Punjabi",950.0,2,4.5,469.0
+South Spice,Chennai,"South Indian, Chinese",1150.0,3,4.1,726.0
+Hyderabadi House,,"Biryani, North Indian",250.0,1,3.5,282.0
+Pizza Central,Pune,"Pizza, Italian",350.0,1,4.1,167.0
+Green Leaf,Bangalore,"South Indian, Healthy Food",1050.0,3,3.9,569.0
+Chennai Meals,Chennai,South Indian,1250.0,3,4.2,719.0
+Coastal Kitchen,Chennai,"South Indian, Seafood",1700.0,4,3.6,838.0
+Andhra Spice,Hyderabad,"Andhra, South Indian",1950.0,4,2.7,643.0
+Spice Route,Bangalore,"North Indian, Chinese",300.0,1,4.2,5.0
+The Gourmet Table,Bangalore,"Continental, Italian",,2,4.0,601.0
+Spice Route,Bangalore,"North Indian, Chinese",350.0,1,3.7,654.0
+Bengal Bites,Kolkata,"Bengali, Chinese",700.0,2,3.6,237.0
+Royal Andhra,Hyderabad,"Andhra, Biryani",250.0,1,3.6,457.0
+Hyderabadi House,Hyderabad,"Biryani, North Indian",750.0,2,3.3,362.0
+Chaat Junction,Mumbai,"Street Food, North Indian",1150.0,3,3.1,544.0
+Coastal Kitchen,Chennai,"South Indian, Seafood",300.0,1,4.1,101.0
+Royal Dine,Mumbai,"Mughlai, North Indian",2800.0,4,4.4,708.0
+Punjabi Rasoi,Delhi,"North Indian, Punjabi",1300.0,3,3.8,566.0
+Chaat Junction,Mumbai,"Street Food, North Indian",300.0,1,,453.0
+Urban Tadka,Delhi,North Indian,150.0,1,3.7,484.0
+The Curry House,Mumbai,"North Indian, Mughlai",600.0,2,3.5,306.0
+Chennai Meals,Chennai,South Indian,850.0,2,3.6,746.0
